@@ -1,7 +1,11 @@
-# Cronômetro Simples
+# ***Cronômetro Simples***
 
 Um cronômetro simples criado com HTML, CSS e JavaScript.
 
+## Funcionalidades
+
+- Inicie, pare e zere o cronômetro facilmente com apenas um clique.
+- Interface simples e intuitiva para uma experiência de usuário amigável.
 
 ## Demonstração
 
